@@ -1,6 +1,6 @@
 # Bootcamp-challenge-5
 
-[![Watch the video](challenge%205.mp4)](challenge%205)
+[[![Watch the video](challenge%205.mp4)](challenge%205)](https://github.com/Youngobz/Bootcamp-challenge-5/assets/133522178/12075011-3ae3-4fe4-8899-8b2278e253f1)
 
 The Work Day Scheduler project aimed to develop a web application using HTML, CSS, and JavaScript to assist users in planning and organizing their daily tasks within regular working hours. This README provides a comprehensive overview of the project, outlining its key components and functionalities.
 
